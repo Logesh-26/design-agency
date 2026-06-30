@@ -18,7 +18,7 @@ function Navbar() {
 						const href = `#${link.toLowerCase()}`;
 						return (
 							<li key={link}>
-								<a href={href} className="transition hover:text-white">
+								<a href={href} className="nav-link transition hover:text-white focus-visible:text-white">
 									{link}
 								</a>
 							</li>

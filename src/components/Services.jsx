@@ -32,7 +32,7 @@ function Services() {
 		<section className="px-6 py-24 lg:px-8" id="services">
 			<div className="mx-auto max-w-7xl">
 				<div className="mb-12 text-center">
-					<h2 className="section-title text-4xl font-bold text-white sm:text-5xl">
+					<h2 className=" nav-link text-4xl font-bold text-white sm:text-5xl">
 						Our Services
 					</h2>
 					<p className="mx-auto mt-4 max-w-2xl text-lg text-slate-400">
